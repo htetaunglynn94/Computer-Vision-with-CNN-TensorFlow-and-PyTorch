@@ -1,0 +1,10 @@
+opencv-python
+ipykernel
+matplotlib
+numpy
+pandas
+scikit-learn
+kaggle
+kagglehub
+# torch torchvision --index-url https://download.pytorch.org/whl/cpu
+
